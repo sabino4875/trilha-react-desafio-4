@@ -1,6 +1,6 @@
 # Desafio de projeto com duas versões do projeto:
-- Uma utilizando nextjs, html e css para a renderização dos componentes.
-- Uma utilizando nextjs e styled-components para a renderização dos ocmponentes.
+- trilha-react-desafio-4-nextjs-default: Utiliza nextjs, html e css para a renderização dos componentes.
+- trilha-react-desafio-4-nextjs-styled-components: Utiliza nextjs e styled-components para a renderização dos ocmponentes.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
